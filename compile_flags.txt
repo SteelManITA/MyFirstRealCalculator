@@ -1,0 +1,9 @@
+-ID:\Programmazione\C_C++\compilers\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\lib\gcc\i686-w64-mingw32\8.1.0\include\c++
+-ID:\Programmazione\C_C++\compilers\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\lib\gcc\i686-w64-mingw32\8.1.0\include\c++\i686-w64-mingw32
+-ID:\Programmazione\C_C++\compilers\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\lib\gcc\i686-w64-mingw32\8.1.0\include\c++\backward
+-ID:\Programmazione\C_C++\compilers\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\lib\gcc\i686-w64-mingw32\8.1.0\include
+-ID:\Programmazione\C_C++\compilers\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\lib\gcc\i686-w64-mingw32\8.1.0\include-fixed
+-ID:\Programmazione\C_C++\compilers\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\i686-w64-mingw32\include
+-ID:\Programmazione\C_C++\BuildYourOwnLisp\MyFirstRealCalculator
+-target
+x86_64-pc-windows-gnu
